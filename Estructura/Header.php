@@ -58,7 +58,7 @@
                              <li><a href="nosotros.php">Nosotros</a></li>
                              <li><a href="opiniones.php">Opiniones</a></li>
                              <li><a href="contacto.php">Contactanos</a></li>
-                             <li><a href="crearProducto.php">Agrega un producto</a></li>
+                             <li><a href="form_crearProducto.php">Agrega un producto</a></li>
                          </ul>
                      </div>
                  </div>
